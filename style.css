@@ -24,9 +24,14 @@
   align-items: center;
 }
 
-nav li {
+nav li{
   list-style: none;
   font-size: 18px;
+}
+
+nav li a{
+  text-decoration: none;
+  color: white;
 }
 
 nav li:hover{
@@ -34,7 +39,7 @@ nav li:hover{
   cursor: pointer;
 }
 
-nav li.active{
+nav li a.active{
   font-weight: bolder;
   font-size: 20px;
 }
