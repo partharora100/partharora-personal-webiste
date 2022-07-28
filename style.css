@@ -39,7 +39,7 @@ nav li:hover {
   cursor: pointer;
 }
 
-nav li a .active {
+nav li a.active {
   font-weight: bolder;
   font-size: 20px;
 }
