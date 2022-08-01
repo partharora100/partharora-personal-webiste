@@ -196,8 +196,11 @@ nav li a.active {
 }
 /*  */
 
-.social-list-items img {
+.social-icon{
   width: 32px;
+}
+.social-icon:hover{
+  width: 33px;
 }
 
 /* .social-list-items img:hover{
